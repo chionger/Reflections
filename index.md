@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## My Learning Journey
+
+I graduated in 2002. Then, JAVA was 
+
+# Git - the mission essentials
+# To fork or to clone ?
+
+# When to fork ?
+  a copy in own Github repository.  contribute by sending Requests to the owner of the repository to Pull my contributions (industry speak is PULL REQUEST). 
+  Can only be done in Github.
+  
+# When to clone ?
+  get a copy in local machine - can be via Desktop.  Again, need to submit PULL REQUEST to originator to incorporate contributions if desired.
+
+# What is good for beginner ?
+  Well, fork from originator in Github and clone the forked repository to own local machine.  That way, can simulate the message exchange without bogging down the originator of the repository that you fork.
+  
+# What is a typical software development workflow ?
 
 You can use the [editor on GitHub](https://github.com/chionger/Reflections/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
