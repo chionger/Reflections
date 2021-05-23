@@ -13,10 +13,13 @@ I graduated in 2002. Then, JAVA was
   Get a copy in local machine - can be via Desktop.  Can fetch upstream to be in sync.  Again, need to submit PULL REQUEST to originator to incorporate contributions if desired.
 
 # What is good for beginner ?
-  Well, fork from originator in Github and clone the forked repository to own local machine.  That way, can simulate the message exchange without bogging down the originator of the repository that you fork.
+  Well, fork from originator in Github and clone the forked repository to own local machine.  That way, can simulate the message exchange without bogging down the originator of the repository that you fork.  The Enterprise version can do more while the free version does not have the approve review function.  
   
 # What is a typical software development workflow ?
-  Create branches in own repository for dabbling.
+  Eclipse has a GIT perspective that allows for cloning of repositories.  However, it points to c:/User/user/documents/Git Hub which I need to change to the directory that I desire.  That is why I do the cloning via Github Desktop as I find it easier to configure where I want the cloned directory to be.
+  
+  After that, create a branch of the main so as to add another level of checks before the codes are merged into the main branch straight away.
+  The creation of branch allows for more review at the programmer level before generating a pull request into the main thread i.e.  code review.
 
 You can use the [editor on GitHub](https://github.com/chionger/Reflections/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
